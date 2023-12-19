@@ -1,0 +1,11 @@
+/home/lance/CODEWRLD/rust/guessing_game_2/target/debug/deps/libgetrandom-6d50abdb6c2c2ed6.rmeta: /home/lance/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.11/src/lib.rs /home/lance/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.11/src/error.rs /home/lance/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.11/src/util.rs /home/lance/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.11/src/error_impls.rs /home/lance/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.11/src/util_libc.rs /home/lance/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.11/src/use_file.rs /home/lance/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.11/src/linux_android.rs
+
+/home/lance/CODEWRLD/rust/guessing_game_2/target/debug/deps/getrandom-6d50abdb6c2c2ed6.d: /home/lance/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.11/src/lib.rs /home/lance/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.11/src/error.rs /home/lance/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.11/src/util.rs /home/lance/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.11/src/error_impls.rs /home/lance/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.11/src/util_libc.rs /home/lance/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.11/src/use_file.rs /home/lance/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.11/src/linux_android.rs
+
+/home/lance/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.11/src/lib.rs:
+/home/lance/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.11/src/error.rs:
+/home/lance/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.11/src/util.rs:
+/home/lance/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.11/src/error_impls.rs:
+/home/lance/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.11/src/util_libc.rs:
+/home/lance/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.11/src/use_file.rs:
+/home/lance/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.11/src/linux_android.rs:
