@@ -17,8 +17,11 @@ fn main() {
         io::stdin().read_line(&mut guess)
         .expect("Failed to do the thing");
 
-        let guess: u32 = guess.trim().parse()
-        .expect("Please type in a number");
+        let guess: u32 = match guess.trim().parse() {
+            Ok(num) => num,
+            Err(_) => continue,
+        }
+        // .expect("Please type in a number");
 
         // I believe this a functions to the random crate for the version I'm using
         let secret = rand::thread_rng()
