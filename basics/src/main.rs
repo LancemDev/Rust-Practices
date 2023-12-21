@@ -1,5 +1,3 @@
 // Control flow
-
 fn main(){
-    
 }
