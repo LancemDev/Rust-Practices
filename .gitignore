@@ -1,0 +1,20 @@
+# Ignore Cargo lock files
+**/Cargo.lock
+
+# Ignore Cargo output files
+/target/
+
+# Ignore .vscode settings
+/.vscode/
+
+# Ignore compiled files
+**/*.o
+**/*.rlib
+**/*.so
+**/*.dll
+**/*.dylib
+**/*.exe
+
+# Ignore backup files
+**/*~
+**/*.bak

@@ -1,0 +1,4 @@
+*.mk linguist-generated=true
+Makefile linguist-generated=true
+*.mk linguist-language=Rust
+Makefile linguist-language=Rust
