@@ -2,6 +2,8 @@ use std::io;
 use std::cmp::Ordering;
 use rand::Rng;
 
+
+
 fn main() {
     // Creates a mutable variable guess and makes it a new String instance
     let mut guess = String::new();
