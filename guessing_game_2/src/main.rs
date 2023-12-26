@@ -31,6 +31,8 @@ fn main() {
         println!("The secret number is: {}", secret);
         // println!("x = {}, y = {}", y, x); // Notice sequence of variables
 
+        //hello
+
         match guess.cmp(&secret){
             Ordering::Less => println!("Too small"),
             Ordering::Greater => println!("Too big"),
